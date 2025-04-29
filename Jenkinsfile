@@ -7,7 +7,7 @@ pipeline {
         NEXUS_VERSION = "nexus3"
         NEXUS_PROTOCOL = "http"
         NEXUS_URL = "3.80.50.42:8081/"
-        NEXUS_REPOSITORY = "sricpted"
+        NEXUS_REPOSITORY = "scripted"
         NEXUS_CREDENTIAL_ID = "nexus"
     }
     stages {
